@@ -18,7 +18,7 @@
 
 Sidenav (サイドナビ) は AMR-IF-UIの左側に表示されている5つのアイコンから構成されるペインです。
 
-<!--https://fonts.google.com/?selected=Material+Icons-->
+<!-- https://fonts.google.com/?selected=Material+Icons -->
 
 | 名称 | 説明 |
 |:---|:---|
