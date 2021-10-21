@@ -12,4 +12,5 @@ This package is a Web GUI interface package for mobile robots (Autonomous Mobile
 - [2. Installation](install_en)
 - [3. Deployment](deploy_en)
 - [4. UI Elements and Functions](gui_en)
-
+- [5. Displayed Messages](msgtype_en)
+- [6. Publishing Commands and Messages](commands_en)

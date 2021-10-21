@@ -1,4 +1,4 @@
-﻿# AMR-IF-UI: messages
+﻿# AMR-IF-UI: Displayed Messages
 
 <!-- TOC -->
 
