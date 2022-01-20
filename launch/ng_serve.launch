@@ -1,0 +1,9 @@
+<launch>
+  <include file="$(find rosbridge_server)/launch/rosbridge_websocket.launch"/> 
+  <node pkg="amr_if_ui"
+        type="ng_serve.sh"
+        args="$(find amr_if_ui)"
+        name="amr_if_ui"
+	output="screen" />
+</launch>
+
