@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "AMR-IF-UI"
+  "defaultProject": "AMR-IF-UI",
+  "cli": {
+    "analytics": "5a64852b-1217-4bb7-8cee-ab24a6a2e824"
+  }
 }
